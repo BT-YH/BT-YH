@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Barry Tang</h1>
+<h1 align="center">Hi! I'm Barry Tang :) 🎵</h1>
 <h3 align="center">Earnest learner of Computer Science and Physics</h3>
 <img align="right" alt="Coding" width="400" src="./coding_image.gif">
 
