@@ -1,9 +1,6 @@
 <h1 align="center">🎵 Barry Tang</h1>
 <h3 align="center">Earnest learner of Computer Science and Physics</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bt-yh&label=Profile%20views&color=0e75b6&style=flat" alt="bt-yh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bt-yh" alt="bt-yh" /></a> </p>
+<img align="right" alt="Coding" width="400" src="./coding_image.gif">
 
 - 🌱 I’m currently learning **Quantum Computing, Scientific Computing, Quantum Mechanics**
 
