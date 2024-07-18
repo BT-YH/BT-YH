@@ -2,9 +2,9 @@
 <h3 align="center">Earnest learner of Computer Science and Physics</h3>
 <img align="right" alt="Coding" width="400" src="./coding_image.gif">
 
-- 🌱 I’m currently learning **Quantum Computing, Scientific Computing, Quantum Mechanics**
+- 🌱 I’m currently learning **Computational Physics and Numerical Linear Algebra**
 
-- 💬 Ask me about **AI, Machine Learning, and Quantum Computing**
+- 💬 Ask me about **AI, Machine Learning**
 
 - 📫 How to reach me **tangyi02@gettysburg.edu**
 
